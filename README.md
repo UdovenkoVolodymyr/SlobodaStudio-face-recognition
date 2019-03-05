@@ -14,6 +14,17 @@
 ## Technologies that have been applied
 For our project  we don't need powerful and expensive hardware, only compact raspberry pi and camera.
 ![alt text4](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/5.jpg)
+1. cvlib</br>                   
+2. dlib</br>                    
+3. face-recognition</br>       
+4. Keras</br>                   
+5. matplotlib</br>                  
+6. numpy</br>                
+7. opencv-contrib-python</br>    
+8. Pillow</br>                      
+9. scikit-learn</br>                
+10. tensorboard</br>              
+11. tensorflow</br>
 
-
+## Demonstration of the algorithm, click on the image to go to the video viewing
 [![Alt text](https://img.youtube.com/vi/8YST5EGInfE/0.jpg)](https://www.youtube.com/watch?v=8YST5EGInfE)
