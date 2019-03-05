@@ -1,7 +1,13 @@
 ![alt text3](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/1.jpg)
 # SlobodaStudio-face-recognition
+![alt text3](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/1.jpg)
+
+</br>
+![alt text3](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/1.jpg)
+
 <br>
-<br>
+![alt text3](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/1.jpg)
+
 ## Solution algorithm:
 1. Initially we are preparing a photos database of people whom we will recognize in the future
 ![alt text3](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/1.jpg)<br>
