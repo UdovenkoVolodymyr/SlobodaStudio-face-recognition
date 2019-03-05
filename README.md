@@ -3,7 +3,7 @@
 <br>
 <br>
 ## Solution algorithm:
-1. Initially we are preparing a photos database of people whom we will recognize in the future
+1. Initially we are preparing a photos database of people whom we will recognize in the future<br>
 ![Screan](2.jpg)
 
 ![alt text3](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/2.jpg)
