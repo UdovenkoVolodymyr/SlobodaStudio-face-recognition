@@ -2,10 +2,8 @@
 # SlobodaStudio-face-recognition
 ![alt text3](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/1.jpg)
 
-</br>
 ![alt text3](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/1.jpg)
 
-<br>
 ![alt text3](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/1.jpg)
 
 ## Solution algorithm:
