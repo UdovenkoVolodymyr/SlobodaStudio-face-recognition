@@ -12,5 +12,8 @@
 ![alt text4](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/4.jpg)
 
 ## Technologies that have been applied
+For our project  we don't need powerful and expensive hardware, only compact raspberry pi and camera.
+![alt text4](https://github.com/UdovenkoVolodymyr/SlobodaStudio-face-recognition/blob/master/5.jpg)
+
 
 [![Alt text](https://img.youtube.com/vi/8YST5EGInfE/0.jpg)](https://www.youtube.com/watch?v=8YST5EGInfE)
