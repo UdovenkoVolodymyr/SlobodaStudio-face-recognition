@@ -27,4 +27,5 @@ For our project  we don't need powerful and expensive hardware, only compact ras
 11. tensorflow</br>
 
 ## Demonstration of the algorithm, click on the image to go to the video viewing
+In this video you can watch the work of the CNN that created and trained by us to recognise the actors of the "Justice League"
 [![Alt text](https://img.youtube.com/vi/8YST5EGInfE/0.jpg)](https://www.youtube.com/watch?v=8YST5EGInfE)
